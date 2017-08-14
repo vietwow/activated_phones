@@ -22,7 +22,7 @@ $ go run main -in sample.csv -out result.csv
 
 ## Task 2: Architecture design
 ### chart
-Look at pdf: [Download](https://github.com/duythinht/activated_phones/raw/master/task2/arch.pdf) | [View](https://github.com/duythinht/activated_phones/blob/master/task2/arch.pdf) (maybe too small)
+Look at pdf: [Download](https://github.com/duythinht/activated_phones/raw/master/task2/arch.pdf) | [View](https://github.com/duythinht/activated_phones/blob/master/task2/arch.pdf) (may display too small to view)
 ### explain:
 N = 6000, S = 6, C = 300
 - Install 3 server as DB replaca set (for scalable and fault tolerance)
