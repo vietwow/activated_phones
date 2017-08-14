@@ -15,9 +15,9 @@
 Checkout source code in this repo
 ```
 # Help
-$ go run main -help
+$ go run main.go -help
 # example to run
-$ go run main -in sample.csv -out result.csv
+$ go run main.go -in sample.csv -out result.csv
 ```
 
 ## Task 2: Architecture design
